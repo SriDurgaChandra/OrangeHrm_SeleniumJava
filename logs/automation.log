@@ -1,0 +1,32 @@
+12:43:10.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:43:10.999 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:43:11.078 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:43:11.080 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:43:11.151 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:43:11.152 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:43:11.198 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:43:11.208 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:43:11.247 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:43:11.247 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:43:11.298 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:43:11.301 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:43:11.335 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:43:11.335 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:43:11.414 [main] DEBUG testCases.LoginTest - application logs.........
+12:43:11.414 [main] INFO  testCases.LoginTest - ******** start login test *************
+12:43:16.831 [main] INFO  testCases.LoginTest - entered credentials
+12:43:16.949 [main] INFO  testCases.LoginTest - clicked login button
+12:43:24.207 [main] INFO  testCases.LoginTest - validated login
+12:43:24.207 [main] INFO  testCases.LoginTest - ******** end login test *************
+12:43:24.239 [main] DEBUG testCases.LoginTest - application logs.........
+12:43:24.240 [main] INFO  testCases.LoginTest - ******** start login test *************
+12:43:29.541 [main] INFO  testCases.LoginTest - entered credentials
+12:43:29.659 [main] INFO  testCases.LoginTest - clicked login button
+12:43:35.810 [main] INFO  testCases.LoginTest - validated login
+12:43:35.810 [main] INFO  testCases.LoginTest - ******** end login test *************
+12:43:35.813 [main] DEBUG testCases.LoginTest - application logs.........
+12:43:35.813 [main] INFO  testCases.LoginTest - ******** start login test *************
+12:43:41.074 [main] INFO  testCases.LoginTest - entered credentials
+12:43:41.159 [main] INFO  testCases.LoginTest - clicked login button
+12:43:48.326 [main] INFO  testCases.LoginTest - validated login
+12:43:48.326 [main] INFO  testCases.LoginTest - ******** end login test *************

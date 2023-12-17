@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-14T16:36:59 IST" name="Suite" finished-at="2023-12-14T16:37:54 IST" duration-ms="54940">
+    <groups>
+      <group name="regression">
+        <method signature="LoginTest.test_login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@5677323c]" name="test_login" class="testCases.LoginTest"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="LoginTest.test_login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@5677323c]" name="test_login" class="testCases.LoginTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2023-12-14T16:36:59 IST" name="Test" finished-at="2023-12-14T16:37:54 IST" duration-ms="54940">
+      <class name="testCases.LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@5677323c]" started-at="2023-12-14T16:37:00 IST" name="setUp" finished-at="2023-12-14T16:37:13 IST" duration-ms="12738" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://opensource-demo.orangehrmlive.com/web/index.php/auth/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@5677323c]" started-at="2023-12-14T16:37:15 IST" name="test_login" data-provider="LoginData" finished-at="2023-12-14T16:37:28 IST" duration-ms="12827" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login -->
+        <test-method signature="test_login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@5677323c]" started-at="2023-12-14T16:37:28 IST" name="test_login" data-provider="LoginData" finished-at="2023-12-14T16:37:41 IST" duration-ms="13827" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login -->
+        <test-method signature="test_login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@5677323c]" started-at="2023-12-14T16:37:41 IST" name="test_login" data-provider="LoginData" finished-at="2023-12-14T16:37:54 IST" duration-ms="12746" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginTest@5677323c]" started-at="2023-12-14T16:37:54 IST" name="tearDown" finished-at="2023-12-14T16:37:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
